@@ -1,0 +1,13 @@
+body {
+	background-image: url('background1.jpg');
+}
+div {
+	background-image: url('background2.jpg');
+	border: solid;
+	margin: 20px 20px 20px 20px;
+}
+
+p {
+	padding: 10px 10px 10px 10px;
+	margin: 20PX 20PX 20PX 20PX;
+}
