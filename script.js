@@ -12,6 +12,7 @@ btnHam.addEventListener('click', function(){
     }
 })
 
+
 btnTimes.addEventListener('click', function(){
     if(btnHam.className !== ""){
         this.style.display = "none";
